@@ -18,8 +18,7 @@
       "position": [
         1696,
         320
-      ],
-      "webhookId": "df9217fb-6c53-425b-9b73-862164804b4d"
+      ]
     },
     {
       "parameters": {
@@ -73,7 +72,7 @@
         "documentId": {
           "__rl": true,
           "mode": "id",
-          "value": "14KQ4EGJsuBylnr4WJHCt9SDw-Y39DjEbFnZgodAq2FQ",
+          "value": "YOUR_GOOGLE_SHEET_ID",
           "cachedResultName": "Hotel Concierge Data"
         },
         "sheetName": {
@@ -226,8 +225,7 @@
       "position": [
         2784,
         592
-      ],
-      "webhookId": "21ee3320-8418-45fa-9c19-98ecc29b3f81"
+      ]
     },
     {
       "parameters": {
@@ -246,17 +244,17 @@
       "parameters": {
         "documentId": {
           "__rl": true,
-          "value": "14KQ4EGJsuBylnr4WJHCt9SDw-Y39DjEbFnZgodAq2FQ",
+          "value": "YOUR_GOOGLE_SHEET_ID",
           "mode": "list",
           "cachedResultName": "Hotel Concierge Data",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14KQ4EGJsuBylnr4WJHCt9SDw-Y39DjEbFnZgodAq2FQ/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit"
         },
         "sheetName": {
           "__rl": true,
-          "value": 856471191,
+          "value": "YOUR_SHEET_TAB_ID",
           "mode": "list",
           "cachedResultName": "Hotel Knowledge",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14KQ4EGJsuBylnr4WJHCt9SDw-Y39DjEbFnZgodAq2FQ/edit#gid=856471191"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit#gid=YOUR_SHEET_TAB_ID"
         },
         "options": {}
       },
@@ -289,7 +287,7 @@
         "documentId": {
           "__rl": true,
           "mode": "id",
-          "value": "14KQ4EGJsuBylnr4WJHCt9SDw-Y39DjEbFnZgodAq2FQ",
+          "value": "YOUR_GOOGLE_SHEET_ID",
           "cachedResultName": "Hotel Concierge Data"
         },
         "sheetName": {
@@ -433,17 +431,17 @@
       "parameters": {
         "documentId": {
           "__rl": true,
-          "value": "14KQ4EGJsuBylnr4WJHCt9SDw-Y39DjEbFnZgodAq2FQ",
+          "value": "YOUR_GOOGLE_SHEET_ID",
           "mode": "list",
           "cachedResultName": "Hotel Concierge Data",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14KQ4EGJsuBylnr4WJHCt9SDw-Y39DjEbFnZgodAq2FQ/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit"
         },
         "sheetName": {
           "__rl": true,
-          "value": 856471191,
+          "value": "YOUR_SHEET_TAB_ID",
           "mode": "list",
           "cachedResultName": "Hotel Knowledge",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14KQ4EGJsuBylnr4WJHCt9SDw-Y39DjEbFnZgodAq2FQ/edit#gid=856471191"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit#gid=YOUR_SHEET_TAB_ID"
         },
         "options": {}
       },
@@ -700,8 +698,7 @@
   "meta": {
     "aiBuilderAssisted": true,
     "builderVariant": "mcp",
-    "templateCredsSetupCompleted": true,
-    "instanceId": "792b93e34ac7906ed85aea73e160f39a2dd0b3cb08561d7f250711f854047e8f"
+    "templateCredsSetupCompleted": true
   },
   "nodeGroups": [],
   "id": "M0W3CbcemrNvivHt",
