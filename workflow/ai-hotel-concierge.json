@@ -211,7 +211,7 @@
     },
     {
       "parameters": {
-        "sendTo": "shreya.optimitylogics@gmail.com",
+        "sendTo": "your-email@example.com",
         "subject": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('subject', 'Email subject in the form: [PRIORITY] Team - Room NNN (REQ-ID)') }}",
         "emailType": "text",
         "message": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('message', 'Plain text staff email with request ID, team, type, priority, room, guest name, details, preferred time and the original guest message') }}",
